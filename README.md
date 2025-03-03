@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Esteban 👋
+
+## Freelance full-stack developer
+
+I'm a software engineer with a strong ability to understand customer requirements and deliver solutions quickly without compromising quality. With experience in full-stack development, cloud technologies, and scalable architectures, I focus on building efficient and maintainable software that meets business needs. 
+
+My expertise spans real-time applications and automation, ensuring seamless user experiences and optimized workflows. I'm passionate about building prototypes and MVPs, enjoying the process of turning ideas into functional products, as well as jumping into participating in big, complex systems.
 
 <!--
 **ecazorla/ecazorla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
